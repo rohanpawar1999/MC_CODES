@@ -1,3 +1,13 @@
+take input for the number of bits and no of samples
+perform the sampling operations
+perform the quantization on the signals
+convert the decimal to binary
+convert the code matrix to a coded row vector
+display the encoded signal
+for demodualtion of pcm signal, getback the index in decimal form, getback quantized values
+plot demodualted signal
+
+
 clc;
 close all;
 clear all;
@@ -9,6 +19,7 @@ L=2^n;
 % y=8*sin(x);                             % Amplitude Of signal is 8v
 % subplot(2,2,1);
 % plot(x,y);grid on;
+
 % Sampling Operation
 x=0:2*pi/n1:4*pi;               % n1 nuber of samples have tobe selected
 s=8*sin(x);
