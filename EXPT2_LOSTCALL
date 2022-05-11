@@ -1,3 +1,10 @@
+enterthe number of trunks i.e N
+enter the value of traffic intensity A
+cal GOS uisng erlangs formula
+display the result and plot the graph
+
+
+
 clc;
 clear all;
 close all;
