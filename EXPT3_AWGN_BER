@@ -1,3 +1,15 @@
+generate the seq of random bits
+input the range of SNR over which to stimulate
+BPSK modulation: directly to bipolar NRZ
+BPSK demodulator logic at recevier
+cal BIT error
+cal BIT error Rate
+Plot graph for BER vs SNR
+
+BER= (no of bits with error) / (total no of bits sent)
+
+Additive white Gaussian noise (AWGN) is a basic channel model used to study the effect of  random processes that occurs in nature.
+
 clc
 clear all
 close all
