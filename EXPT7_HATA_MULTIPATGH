@@ -1,3 +1,10 @@
+assign data model equation as ahm = 3.2*(log10(11.75*hm)).^2 - 4.97;
+assign value for L%)-1,L50-2,L50-30for 3 zone urban typical and rural
+plot all three graph on a graph individually
+perform comparitive analysis for different BS and environment
+
+
+
 clc;
 close all;
 clear all;
