@@ -1,3 +1,12 @@
+assign data rate, no of samples per bit, no of bits for simulation, BW and x period
+assign alpha = squrt(log2)/2piBT
+get gaussian filter response in time domian
+plot response of gussain filter as 'sample at Ts" vs "normalized magniotude"
+assign i/p bit as {11000111} and sampling freq as 1khz
+create a weighing function generstor with length as 8fs+1  of the quadrant
+plot the "time vs amplitude for various BT
+stop
+
 clc;
 clear all;
 close all;
